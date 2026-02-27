@@ -18,7 +18,7 @@ This project demonstrates a responsive image grid layout built using **Tailwind 
 index.html
 README.md
 ```
-
+[live](https://amrithaamzz.github.io/Grid-Image-Layout/)
 ![image](./image.png)
 
 
